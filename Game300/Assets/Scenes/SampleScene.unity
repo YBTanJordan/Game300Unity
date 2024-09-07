@@ -437,8 +437,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PickUpPoints:
   - {fileID: 207713594}
+  - {fileID: 748788892}
   DropOffPoints:
   - {fileID: 292334014}
+  - {fileID: 2136083421}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -533,6 +535,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &748788892 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6764669477802665447, guid: 346f4c68d3ebdb24aaf4f0d86bf81c5c, type: 3}
+  m_PrefabInstance: {fileID: 2086624684}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -739,6 +746,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 346f4c68d3ebdb24aaf4f0d86bf81c5c, type: 3}
+--- !u!1 &2136083421 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7285008580469158205, guid: b704ea0116e36ac4eb6ff43d9d8f52a4, type: 3}
+  m_PrefabInstance: {fileID: 2082371616}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2419311042053093043
 PrefabInstance:
   m_ObjectHideFlags: 0
